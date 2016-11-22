@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header bgi{
+	background: url(images/hearer.jpg) no-repeat;
+	width: 100px;
+	height: 100px;
+}
